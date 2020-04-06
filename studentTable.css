@@ -1,0 +1,15 @@
+.generalColumn {
+    width: 100px;
+    height: 100px;
+    text-align: Center;
+}
+.colHeader{
+    width: 100px;
+    height: 50px;
+    text-align: Center;
+}
+.failing{
+    background-color: red;
+    opacity:50;
+    color: white
+}
