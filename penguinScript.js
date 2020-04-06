@@ -56,7 +56,7 @@ var displayTable = function(students)
         .append("img")
         .attr("src", function(student)
             { pictureLink = student.picture
-              picture = "../imgs/" + pictureLink
+              picture = "/imgs/" + pictureLink
         
                 return picture
             })
